@@ -11,7 +11,7 @@ package-lock.json
 
 # coverage
 .nyc_output
-coverage
+# coverage
 
 # test output
 test/**/out
